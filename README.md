@@ -13,4 +13,6 @@ Featuring background music from Kevin Macleod. Visit his website and browse thro
 
 Beta test this app for free below! After submitting you information, be sure check your email for the invite. If you have questions or comments, you can either use the TestFlight app or go to jasperreddin.com/contact.php and send a message.
 
+
+## Download
 Register to beta test on TestFlight: http://unrealgravity.jasperreddin.com
