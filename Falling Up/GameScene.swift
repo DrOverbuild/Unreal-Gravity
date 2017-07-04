@@ -3,7 +3,7 @@
 //  Falling Up
 //
 //  Created by Jasper Reddin on 9/15/16.
-//  Copyright © 2016 Jasper Reddin. All rights reserved.
+//  Copyright © 2016-2017 Jasper Reddin. All rights reserved.
 //
 
 import SpriteKit
